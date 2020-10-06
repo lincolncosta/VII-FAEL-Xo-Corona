@@ -15,7 +15,7 @@ Aplicação de Variantes para Desenvolvimento de Um Jogo Sério Sobre COVID-19: 
 
 ### Aplicação de Variantes em Jogos
 
-### Exploding Kittens e suas variantes
+### Exploding Kittens e Suas Variantes
 
 ### Jogos Sérios
 
