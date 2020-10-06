@@ -13,12 +13,12 @@ Aplicação de Variantes para Desenvolvimento de Um Jogo Sério Sobre COVID-19: 
 
 ### O que são variantes?
 
-### Aplicação de Variantes em Jogos
+### Aplicação de variantes em jogos
 
-### Exploding Kittens e Suas Variantes
+### Exploding Kittens e suas variantes
 
-### Jogos Sérios
+### Jogos sérios
 
-### A Criação do Xô Corona
+### A criação do Xô Corona
 
 Para mais informações sobre o Xô Corona [clique aqui](https://github.com/tekpixo/xo-corona)!
