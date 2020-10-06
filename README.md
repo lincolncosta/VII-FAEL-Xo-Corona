@@ -1,8 +1,8 @@
 <h1 align="center">
 
-    Aplicação de Variantes para Desenvolvimento de Um Jogo Sério Sobre COVID-19: Estudo de Caso Xô Corona
+Aplicação de Variantes para Desenvolvimento de Um Jogo Sério Sobre COVID-19: Estudo de Caso Xô Corona
 
-    <p align="center"><img src="imagens/cartas.png" alt="Algumas cartas do jogo Xô Corona" width="120px" /></p>
+<p align="center"><img src="imagens/cartas.png" alt="Algumas cartas do jogo Xô Corona" /></p>
 
 </h1>
 
