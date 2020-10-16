@@ -21,4 +21,6 @@ Aplicação de Variantes para Desenvolvimento de Um Jogo Sério Sobre COVID-19: 
 
 ### A criação do Xô Corona
 
+### Experiência ao jogar
+
 Para mais informações sobre o Xô Corona [clique aqui](https://github.com/tekpixo/xo-corona)!
